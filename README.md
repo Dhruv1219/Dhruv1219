@@ -4,7 +4,7 @@
 
 <br>
 
-🌱 I’m currently learning **Flutter, C++, Python**
+🌱 I’m currently learning **Python, Machine Leaning, Artifical Intelligence**
 
 ## Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-sakariya-5347a525b/)
